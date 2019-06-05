@@ -1,0 +1,8 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MrSchneepflug/test-project.git",
+  "author": "Johannes Jambor <johannes.jambor@rewe-digital.com>",
+  "license": "MIT"
+}
